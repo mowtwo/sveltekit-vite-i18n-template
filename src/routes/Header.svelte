@@ -1,13 +1,11 @@
 <script>
-	import { page } from '$app/stores';
+	import { locale } from '$lib/translations';
 </script>
 
 <header>
-	<div>
-
-	</div>
-	<nav>
-
-	</nav>
-
+	<select bind:value={$locale}>
+		<option value="zh">中文</option>
+		<option value="en">English</option>
+	</select>
+	<nav />
 </header>
