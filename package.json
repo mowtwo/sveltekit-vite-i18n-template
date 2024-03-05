@@ -17,7 +17,7 @@
 		"@sveltejs/adapter-auto": "^1.0.0",
 		"@sveltejs/adapter-node": "^1.0.0",
 		"@sveltejs/adapter-static": "^1.0.0",
-		"@sveltejs/kit": "^1.0.0",
+		"@sveltejs/kit": "^1.15.2",
 		"@types/cookie": "^0.5.1",
 		"@unocss/preset-attributify": "^0.48.0",
 		"@unocss/reset": "^0.48.0",
